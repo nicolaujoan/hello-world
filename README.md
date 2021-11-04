@@ -1,3 +1,2 @@
 # hello-world
-Guided exercise from Github Guides
-This is an activity for informatic systems!
+Guided exercise from Github Guides. This exercise is from the subject *sistemas informáticos*.
